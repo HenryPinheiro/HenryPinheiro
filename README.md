@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
 📊 BI/Data Analyst <br>- 💼 Data and BI Intern at MetLife<br>- 💻 I am currently studying Information Systems at FIAP<br>- 📚 Studying and improving myself as a Developer<br>
 
 
