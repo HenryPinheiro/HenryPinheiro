@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a48height=120section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7e57c2&textBg=false" width=100% />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=7E57C2&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Henry;I'm+19+years+old;I'm+a+Business+Analyst;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -35,4 +35,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HenryPinheiro&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
+
+<div align="center">
+
+# 🌎 Social:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-pinheiro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henry_pinheiro_/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7e57c2&textBg=false&section=footer" width=100% />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
